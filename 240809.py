@@ -2,7 +2,6 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
-import koreanize_matplotlib
 from wordcloud import WordCloud
 import plotly.graph_objects as go
 import plotly.express as px
